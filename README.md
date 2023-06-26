@@ -13,8 +13,13 @@
 
 ### In the frontend:
 > Install all the dev-dependencies first
-> ```npm install```
-> or ```npm i```
+> ```bash
+> npm install
+> ```
+> or
+> ```bash
+> npm i
+> ```
 > after navigating to the folder
 
 ### In the backend:
